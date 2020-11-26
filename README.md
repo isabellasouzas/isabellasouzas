@@ -1,9 +1,10 @@
 ### Hi, I'm Bella 👋
 
--    I'm a baby gopher.
-- 🔭 I’m currently working on Alma Social Marketing
-- 🌱 I’m currently learning Golang and Python
-- 😄 Pronouns: She/Her
+* 🤓 I'm a gopher.
+* 🔭 I’m currently working on [Stone Pagamentos](https://www.stone.com.br/)
+* 🌱 computer Programming languages: Go, Python
+* 😄 Pronouns: She/Her
+* ✊🏿 I'm a Black in Tech
 
 ![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
 
