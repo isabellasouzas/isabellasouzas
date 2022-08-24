@@ -1,7 +1,7 @@
 ### Hi, I'm Bella 👋
 
 * 🤓 I'm a gopher.
-* 🔭 I’m currently working on [Stone Pagamentos](https://www.stone.com.br/)
+* 🔭 I’m looking for a job
 * 🌱 computer Programming languages: Go, Python
 * 😄 Pronouns: She/Her
 * ✊🏿 I'm a Black in Tech
